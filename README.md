@@ -4,6 +4,13 @@ ___
 
 
 ## aarch64 Ubtunu (latest)
+1. Run the script
+```bash
+chmod +x aarch64.sh
+./aarch64.sh
+```
+___
+### Alternativly you can do the following
 1. Start by installing packages
 ```bash 
 sudo apt-get install qemu binfmt-support qemu-user-static
