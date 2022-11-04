@@ -4,7 +4,8 @@ ___
 
 
 ## aarch64 Ubtunu (latest)
-1. Run the script
+1. Download the script you want from the Releases tab
+2. Run the script
 ```bash
 chmod +x aarch64.sh
 ./aarch64.sh
